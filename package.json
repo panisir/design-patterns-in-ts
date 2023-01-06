@@ -1,0 +1,27 @@
+{
+  "name": "design-patterns-in-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon",
+    "debug": "npx nodemon debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panisir/design-patterns-in-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panisir/design-patterns-in-ts/issues"
+  },
+  "homepage": "https://github.com/panisir/design-patterns-in-ts#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "common-js": "^0.3.8",
+    "object-hash": "^3.0.0"
+  }
+}
